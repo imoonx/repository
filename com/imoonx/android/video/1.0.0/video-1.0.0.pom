@@ -10,7 +10,7 @@
     <dependency>
       <groupId>com.android.support</groupId>
       <artifactId>appcompat-v7</artifactId>
-      <version>26.1.0</version>
+      <version>27.1.1</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
