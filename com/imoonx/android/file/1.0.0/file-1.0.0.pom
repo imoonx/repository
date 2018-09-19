@@ -33,13 +33,13 @@
     </dependency>
     <dependency>
       <groupId>com.imoonx.android</groupId>
-      <artifactId>http</artifactId>
+      <artifactId>util</artifactId>
       <version>1.0.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.imoonx.android</groupId>
-      <artifactId>util</artifactId>
+      <artifactId>http</artifactId>
       <version>1.0.0</version>
       <scope>compile</scope>
     </dependency>
