@@ -3,10 +3,11 @@
   <groupId>com.meituan.robust</groupId>
   <artifactId>gradle-plugin</artifactId>
   <versioning>
-    <release>0.4.100</release>
+    <release>0.4.101</release>
     <versions>
       <version>0.4.100</version>
+      <version>0.4.101</version>
     </versions>
-    <lastUpdated>20190110072655</lastUpdated>
+    <lastUpdated>20190110091915</lastUpdated>
   </versioning>
 </metadata>
