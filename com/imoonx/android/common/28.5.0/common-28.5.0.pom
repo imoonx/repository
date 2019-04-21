@@ -37,11 +37,5 @@
       <version>28.5.0</version>
       <scope>compile</scope>
     </dependency>
-    <dependency>
-      <groupId>com.imoonx.android</groupId>
-      <artifactId>third</artifactId>
-      <version>28.5.0</version>
-      <scope>compile</scope>
-    </dependency>
   </dependencies>
 </project>
